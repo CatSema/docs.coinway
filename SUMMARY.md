@@ -12,27 +12,27 @@
 
 ## 🌐 Экосистема
 
-* [📱 Описание экосистемы на базе mini app](ekosistema/opisanie-ekosistemy-na-baze-mini-app.md)
+* [📱 Описание экосистемы на базе Mini App](ekosistema/page-1.md)
 
 ## 🏢 Организация
 
-* [👥 Команда](organizaciya/komanda.md)
+* [👥 Команда](organizaciya/page-2.md)
 * [💼 Инвесторы и партнеры](organizaciya/investory-i-partnery.md)
 * [💬 Медиакит](organizaciya/mediakit.md)
 * [🔗 Официальные ссылки](organizaciya/oficialnye-ssylki.md)
 
 ## 💎 Токеномика
 
-* [⏳ Coming soon](tokenomika/coming-soon.md)
+* [⏳ Coming soon](tokenomika/page-3.md)
 
 ## 🤝 Партнерство
 
-* [⏳ Coming soon](partnerstvo/coming-soon.md)
+* [⏳ Coming soon](partnerstvo/page-4.md)
 
 ## ⁉️ FAQ
 
-* [⏳ Coming soon](faq/coming-soon.md)
+* [⏳ Coming soon](faq/page-5.md)
 
 ## 📝 Отказ от ответсвенности
 
-* [⏳ Coming soon](otkaz-ot-otvetsvennosti/coming-soon.md)
+* [ℹ️ Дисклеймер](otkaz-ot-otvetsvennosti/diskleimer.md)

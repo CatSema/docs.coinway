@@ -1,4 +1,4 @@
-# ⏳ Coming soon
+# ℹ️ Дисклеймер
 
 <div data-full-width="true">
 
