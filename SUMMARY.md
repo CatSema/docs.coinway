@@ -1,6 +1,6 @@
 # Table of contents
 
-## Введение
+## ✌️ Введение
 
 * [🌎 Что такое CoinWay?](README.md)
 * [🚩 Наша миссия](vvedenie/nasha-missiya.md)
@@ -10,29 +10,29 @@
 * [✨ Проблемы и решения](vvedenie/problemy-i-resheniya.md)
 * [🗺️ Дорожная карта](vvedenie/dorozhnaya-karta.md)
 
-## Экосистема
+## 🌐 Экосистема
 
 * [📱 Описание экосистемы на базе Mini App](ekosistema/page-1.md)
 
-## Организация
+## 🏢 Организация
 
 * [👥 Команда](organizaciya/page-2.md)
 * [💼 Инвесторы и партнеры](organizaciya/investory-i-partnery.md)
 * [💬 Медиакит](organizaciya/mediakit.md)
 * [🔗 Официальные ссылки](organizaciya/oficialnye-ssylki.md)
 
-## Токеномика
+## 💎 Токеномика
 
 * [⏳ Coming soon](tokenomika/page-3.md)
 
-## Партнерство
+## 🤝 Партнерство
 
 * [⏳ Coming soon](partnerstvo/page-4.md)
 
-## FAQ
+## ⁉️ FAQ
 
 * [⏳ Coming soon](faq/page-5.md)
 
-## Отказ от ответсвенности
+## 📝 Отказ от ответсвенности
 
 * [ℹ️ Дисклеймер](otkaz-ot-otvetsvennosti/diskleimer.md)
