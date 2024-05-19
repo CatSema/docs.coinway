@@ -4,7 +4,6 @@
 
 * [Что такое CoinWay?](README.md)
 * [Наша миссия](vvedenie/nasha-missiya.md)
-* [Наш взгляд (Наше видение)?](vvedenie/nash-vzglyad-nashe-videnie.md)
 * [Образование идеи](vvedenie/obrazovanie-idei.md)
 * [Ключевые моменты](vvedenie/klyuchevye-momenty.md)
 * [Проблемы и решения](vvedenie/problemy-i-resheniya.md)
