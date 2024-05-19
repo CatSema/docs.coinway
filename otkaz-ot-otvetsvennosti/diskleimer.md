@@ -1,4 +1,4 @@
-# ℹ️ Дисклеймер
+# Дисклеймер
 
 <div data-full-width="true">
 
