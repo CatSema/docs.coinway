@@ -1,35 +1,38 @@
 # Table of contents
 
-## Введение
+## ✌️ Введение
 
 * [🌎 Что такое CoinWay?](README.md)
-* [Наша миссия](vvedenie/nasha-missiya.md)
-* [Наш взгляд](vvedenie/nash-vzglyad.md)
-* [Образование идеи](vvedenie/obrazovanie-idei.md)
-* [Ключевые моменты](vvedenie/klyuchevye-momenty.md)
-* [Проблемы и решения](vvedenie/problemy-i-resheniya.md)
-* [Дорожная карта](vvedenie/dorozhnaya-karta.md)
+* [🚩 Наша миссия](vvedenie/nasha-missiya.md)
+* [👀 Наш взгляд](vvedenie/nash-vzglyad.md)
+* [💡 Образование идеи](vvedenie/obrazovanie-idei.md)
+* [📌 Ключевые моменты](vvedenie/klyuchevye-momenty.md)
+* [✨ Проблемы и решения](vvedenie/problemy-i-resheniya.md)
+* [🗺️ Дорожная карта](vvedenie/dorozhnaya-karta.md)
 
-## Экосистема
+## 🌐 Экосистема
 
-* [Page 1](ekosistema/page-1.md)
+* [📱 Описание экосистемы на базе mini app](ekosistema/opisanie-ekosistemy-na-baze-mini-app.md)
 
-## Организация
+## 🏢 Организация
 
-* [Page 2](organizaciya/page-2.md)
+* [👥 Команда](organizaciya/komanda.md)
+* [💼 Инвесторы и партнеры](organizaciya/investory-i-partnery.md)
+* [💬 Медиакит](organizaciya/mediakit.md)
+* [🔗 Официальные ссылки](organizaciya/oficialnye-ssylki.md)
 
-## Токеномика
+## 💎 Токеномика
 
-* [Page 3](tokenomika/page-3.md)
+* [⏳ Coming soon](tokenomika/coming-soon.md)
 
-## Партнерство
+## 🤝 Партнерство
 
-* [Page 4](partnerstvo/page-4.md)
+* [⏳ Coming soon](partnerstvo/coming-soon.md)
 
-## FAQ
+## ⁉️ FAQ
 
-* [Page 5](faq/page-5.md)
+* [⏳ Coming soon](faq/coming-soon.md)
 
-## Отказ от ответсвенности
+## 📝 Отказ от ответсвенности
 
-* [Page 6](otkaz-ot-otvetsvennosti/page-6.md)
+* [⏳ Coming soon](otkaz-ot-otvetsvennosti/coming-soon.md)
