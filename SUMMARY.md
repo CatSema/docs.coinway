@@ -7,7 +7,11 @@
 * [Образование идеи](vvedenie/obrazovanie-idei.md)
 * [Ключевые моменты](vvedenie/klyuchevye-momenty.md)
 * [Проблемы и решения](vvedenie/problemy-i-resheniya.md)
-* [Токеномика](vvedenie/tokenomika.md)
+
+## 💎 ТОКЕНОМИКА
+
+* [Применение](tokenomika/primenenie.md)
+* [Распределение](tokenomika/raspredelenie.md)
 
 ## 🌐 Экосистема
 
@@ -24,10 +28,6 @@
 * [Медиакит](organizaciya/mediakit.md)
 * [Официальные ссылки](organizaciya/oficialnye-ssylki.md)
 
-## 🤝 Партнерство
-
-* [Coming soon](partnerstvo/page-4.md)
-
 ## ⁉️ FAQ
 
 * [Coming soon](faq/page-5.md)
@@ -35,3 +35,7 @@
 ## 📝 Отказ от ответсвенности
 
 * [Дисклеймер](otkaz-ot-otvetsvennosti/diskleimer.md)
+
+## 🤝 Партнерство
+
+* [Coming soon](partnerstvo/page-4.md)
