@@ -7,11 +7,15 @@
 * [Образование идеи](vvedenie/obrazovanie-idei.md)
 * [Ключевые моменты](vvedenie/klyuchevye-momenty.md)
 * [Проблемы и решения](vvedenie/problemy-i-resheniya.md)
-* [Дорожная карта](vvedenie/dorozhnaya-karta.md)
+* [Токеномика](vvedenie/tokenomika.md)
 
 ## 🌐 Экосистема
 
 * [Описание экосистемы на базе Mini App](ekosistema/page-1.md)
+
+## 🗺️ ДОРОЖНАЯ КАРТА
+
+* [Последовательность обновлений](dorozhnaya-karta/posledovatelnost-obnovlenii.md)
 
 ## 🏢 Организация
 
@@ -19,10 +23,6 @@
 * [Инвесторы и партнеры](organizaciya/investory-i-partnery.md)
 * [Медиакит](organizaciya/mediakit.md)
 * [Официальные ссылки](organizaciya/oficialnye-ssylki.md)
-
-## 💎 Токеномика
-
-* [Coming soon](tokenomika/page-3.md)
 
 ## 🤝 Партнерство
 
